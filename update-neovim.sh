@@ -6,7 +6,7 @@
 # sudo dnf -y install ninja-build cmake gcc make gettext curl glibc-gconv-extra
 
 # Ubuntu/ Debian -- Uncomment below
-# sudo apt-get install ninja-build gettext cmake curl build-essential
+# sudo apt install ninja-build gettext cmake curl build-essential
 
 # go to https://github.com/neovim/neovim/blob/master/BUILD.md#build-prerequisites for other systems
 
