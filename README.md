@@ -8,6 +8,8 @@ Bash scripts to install and update neovim
 
 ### All you need to do:
 
+- In the scripts, uncomment install dependencies command that matches your system
+
 - Run install script
 
 ```sh
